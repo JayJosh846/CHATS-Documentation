@@ -1,0 +1,1 @@
+exports.walletExcludes = ['privateKey', 'bantuPrivateKey'];
